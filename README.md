@@ -62,3 +62,11 @@ In CPU only and GTX-1060-6G
 
 *If we use fp16 onnx in step-4, the inference shoulde be spped up much, but as illustrated belows(fp16 in GTX-1060-6G),we feel the same as FP32, no improvments*
 ![image](https://github.com/user-attachments/assets/c1ad4b8e-fdbf-4f74-8f6d-181bc8ef5b85)
+
+
+@article{yolov13,
+  title={YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception},
+  author={Lei, Mengqi and Li, Siqi and Wu, Yihong and et al.},
+  journal={arXiv preprint arXiv:2506.17733},
+  year={2025}
+}
