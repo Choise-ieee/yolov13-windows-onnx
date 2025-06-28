@@ -60,5 +60,5 @@ In CPU only and GTX-1060-6G
 ![image](https://github.com/user-attachments/assets/a02a17f1-1823-40ab-9279-9ce4b115baae)
 ![image](https://github.com/user-attachments/assets/bbbb1e91-b9d6-41a0-ba02-04c992e6467e)
 
-*If we use fp16 onnx in step-4, the inference could be spped up much as illustrated belows(fp16 in GTX-1060-6G),we feel the same as FP32, no improvments*
+*If we use fp16 onnx in step-4, the inference shoulde be spped up much, but as illustrated belows(fp16 in GTX-1060-6G),we feel the same as FP32, no improvments*
 ![image](https://github.com/user-attachments/assets/c1ad4b8e-fdbf-4f74-8f6d-181bc8ef5b85)
